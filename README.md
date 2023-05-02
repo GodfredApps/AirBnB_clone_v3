@@ -153,9 +153,8 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Secondary Authors
-GodfredApps - [Github](https://github.com/godfredapps) / [Twitter](https://twitter.com/GodfredAppss)
-Francis Awoh - [Github] / [Twitter]
+## Authors
+Mercy Kalondu - [Github](https://github.com/MercyKalondu)
 
 
 ## License
