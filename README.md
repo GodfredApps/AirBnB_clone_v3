@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Mercy Kalondu - [Github](https://github.com/MercyKalondu)
+Godfred Appiah Kubi - [Github](https://github.com/GodfredApps) / [Twitter](https://twitter.com/GodfredAppss)
 
 
 ## License
